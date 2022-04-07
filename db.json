@@ -1,4 +1,14 @@
 {
+  "login": [
+    {
+      "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFjaHJhZkBnbWFpbC5jb20iLCJpYXQiOjE2NDkzMzc5NTAsImV4cCI6MTY0OTM0MTU1MCwic3ViIjoiMSJ9.uk0FnOeBcyWsaARTZpG2CDNsknnMF5xXFJy71XNOaeo",
+      "user": {
+        "id": 1,
+        "nom": "achraf",
+        "email": "achraf@gmail.com"
+      }
+    }
+  ],
   "users": [
     {
       "id": 1,
